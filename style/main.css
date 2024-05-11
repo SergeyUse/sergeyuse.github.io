@@ -103,7 +103,7 @@ body {
 }
 
 .list-item__remove:hover svg path {
-    fill: #ff4747;
+    fill: #ff4747;  
 }
 
 .list-item__remove svg{
